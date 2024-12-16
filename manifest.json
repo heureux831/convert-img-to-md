@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "convert-img-to-mdtag",
+	"name": "convert-img-to-mdtag",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "转换html图片为markdown图片标签",
+	"author": "heureux831",
+	"authorUrl": "https://heureux831.github.io/",
+	"fundingUrl": "https://heureux831.github.io/",
 	"isDesktopOnly": false
 }
